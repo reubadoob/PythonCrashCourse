@@ -1,0 +1,17 @@
+guestlist = ["Michael Jordan", "Jordan Peterson", "Voddie Baucham"]
+print(f"{guestlist[0]}, You are invited to a BBQ!")
+print(f"{guestlist[1]}, You are invited to a BBQ!")
+print(f"{guestlist[2]}, You are invited to a BBQ!")
+print(f"{guestlist[2]}, is unable to attend the BBQ")
+del guestlist [2]
+guestlist.append( 'Alex Jones')
+print(f"{guestlist[0]}, You are invited to a BBQ!")
+print(f"{guestlist[1]}, You are invited to a BBQ!")
+print(f"{guestlist[2]}, You are invited to a BBQ!")
+print("I've found a bigger table!")
+guestlist.insert(0, 'Martha Stewart')
+guestlist.insert(3, 'Snoop Dogg')
+guestlist.append('Ron Paul')
+print(f"{guestlist[0]}, You are invited to a BBQ!")
+print(f"{guestlist[3]}, You are invited to a BBQ!")
+print(f"{guestlist[-1]}, You are invited to a BBQ!")

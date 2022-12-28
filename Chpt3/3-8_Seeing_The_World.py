@@ -1,0 +1,12 @@
+destinations = ['Tokyo', 'London', 'Sydney', 'Hong Kong','Switzerland' ]
+print(destinations)
+print(sorted(destinations))
+print(destinations)
+destinations.reverse()
+print(destinations)
+destinations.reverse()
+print(destinations)
+destinations.sort()
+print(destinations)
+destinations.sort(reverse=True)
+print(destinations)
