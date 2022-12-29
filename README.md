@@ -1,5 +1,5 @@
 # PythonCrashCourse
-This git is my complication of the solution for the Python Crash Course 2nd Edition. 
+This git is my complication of the solution for the [Python Crash Course 2nd Edition](https://nostarch.com/pythoncrashcourse2e). 
 # Solutions
 
 ## Chapter 1: Getting Started
