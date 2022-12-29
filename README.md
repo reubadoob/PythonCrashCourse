@@ -4,18 +4,18 @@ This git is my complication of the solution for the Python Crash Course 2nd Edit
 
 ## Chapter 1: Getting Started
 1. [Testing]()
-2. [helloworld.py]()
+2. [helloworld.py](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt1/1-0_helloworld.py)
 
 ## Chapter 2: Variables and Simple Data Types
-1. [Simple Message]()
-2. [Simple Messages]()
-3. [Personal Message]()
-4. [Name Cases]()
-5. [Famous Quote]()
-6. [Famous Quote 2]()
-7. [Stripping Names]()
-8. [Number 8]()
-9. [Favorite Number]()
+1. [Simple Message](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt2/2-1_simple_message.py)
+2. [Simple Messages](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt2/2-2_simple_messages.py)
+3. [Personal Message](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt2/2-3_personnelmessage.py)
+4. [Name Cases](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt2/2-4_name_cases.py)
+5. [Famous Quote](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt2/2-5_famous_quote.py)
+6. [Famous Quote 2](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt2/2-6_famous_quote_2.py)
+7. [Stripping Names](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt2/2-7_stripping_names.py)
+8. [Number 8](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt2/2-8_number_eight.py)
+9. [Favorite Number](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt2/2-9_favorite_number.py)
 
 ## Chapter 3: Introducing Lists
 1. [Names]()
