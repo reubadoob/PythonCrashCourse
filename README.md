@@ -17,16 +17,16 @@ This git is my complication of the solution for the Python Crash Course 2nd Edit
 9. [Favorite Number](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt2/2-9_favorite_number.py)
 
 ## Chapter 3: Introducing Lists
-1. [Names]()
-2. [Greetings]()
-3. [Your Own List]()
+1. [Names](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt3/3-1_names.py)
+2. [Greetings](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt3/3-2_greetings.py)
+3. [Your Own List](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt3/3-3_Your_Own_List.py)
 4. [Guest List]()
-5. [Changing Guest List]()
-6. [More Guest]()
-7. [Shrinking Guest List]()
-8. [Seeing the World]()
-9. [Dinner Guests]()
-10. [Every Function]()
+5. [Changing Guest List](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt3/3-4_Guest_List.py)
+6. [More Guest](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt3/3-5_Changing_Guest_List.py)
+7. [Shrinking Guest List](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt3/3-7_Shrinking_Guest_List.py)
+8. [Seeing the World](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt3/3-8_Seeing_The_World.py)
+9. [Dinner Guests](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt3/3-9_Dinner_Guests.py)
+10. [Every Function](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt3/3-10_Every_Function.py)
 11. [Intentional Error]() *(It literally throws error)*
 
 ## Chapter 4: Working with Lists
