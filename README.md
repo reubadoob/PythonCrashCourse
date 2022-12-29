@@ -1,8 +1,8 @@
 ![Book Cover](https://nostarch.com/sites/default/files/styles/uc_product_full/public/pcc2e_cover-blurb_2B.png?itok=2_OiXq65 "Python Crash Course 2nd Edition")
 
-
 # Python Crash Course a Hands-On, Project-Based Introduction to Programming
-This git is my complication of the solution for the [Python Crash Course 2nd Edition](https://nostarch.com/pythoncrashcourse2e). 
+This git is my compilation of the solutions for the projects foudn within the chapters of [Python Crash Course 2nd Edition](https://nostarch.com/pythoncrashcourse2e). These solutions are for reference as well as for me to document my working through the book. 
+
 # Solutions
 
 ## Chapter 1: Getting Started
