@@ -1,7 +1,7 @@
 ![Book Cover](https://nostarch.com/sites/default/files/styles/uc_product_full/public/pcc2e_cover-blurb_2B.png?itok=2_OiXq65 "Python Crash Course 2nd Edition")
 
 
-# PythonCrashCourse
+# Python Crash Course a Hands-On, Project-Based Introduction to Programming
 This git is my complication of the solution for the [Python Crash Course 2nd Edition](https://nostarch.com/pythoncrashcourse2e). 
 # Solutions
 
@@ -76,4 +76,17 @@ This git is my complication of the solution for the [Python Crash Course 2nd Edi
 11. [Cities]()
 12. [Extensions]()
 
-## Chapters 7: User Input and While Loops
+## Chapter 7: User Input and While Loops
+1.
+
+## Chapter 8: Functions
+1. 
+
+## Chapter 9: Classes
+1.
+
+## Chapter 10: Files and Exceptions
+1.
+
+## Chapter 11:
+1.
