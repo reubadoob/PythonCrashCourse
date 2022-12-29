@@ -1,7 +1,7 @@
-first_name = "reuben"
-last_name = "booker"
-upper_first ="REUBEN"
-upper_last = "BOOKER"
+first_name = "mike"
+last_name = "jones"
+upper_first ="MIKE"
+upper_last = "JONES"
 print(first_name.upper())
 print(last_name.upper())
 print(first_name.title())
