@@ -3,8 +3,7 @@ This git is my complication of the solution for the Python Crash Course 2nd Edit
 # Solutions
 
 ## Chapter 1: Getting Started
-1. [Testing]()
-2. [helloworld.py](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt1/1-0_helloworld.py)
+1. [helloworld.py](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt1/1-0_helloworld.py)
 
 ## Chapter 2: Variables and Simple Data Types
 1. [Simple Message](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt2/2-1_simple_message.py)
