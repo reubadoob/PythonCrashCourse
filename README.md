@@ -60,11 +60,11 @@ This git is my complication of the solution for the Python Crash Course 2nd Edit
 11. [Ordinal numbers](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt5/5-11_Ordinal_Numbers.py)
 
 ## Chapter 6: Dictionaries 
-1. [Person]()
-2. [Favorite Number]()
-3. [Glossary]()
-4. [Glossary 2]()
-5. [Rivers]()
+1. [Person](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt6/6-1_Person.py)
+2. [Favorite Number](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt6/6-2_Favorite_Number.py)
+3. [Glossary](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt6/6-3_Glossary.py)
+4. [Glossary 2](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt6/6-4_Glossary_2.py)
+5. [Rivers](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt6/6-5_Rivers.py)
 6. [Polling]()
 7. [People]()
 8. [Pets]()
