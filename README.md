@@ -47,17 +47,17 @@ This git is my complication of the solution for the Python Crash Course 2nd Edit
 15. [Code Review](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt4/4-15_Code_Review.py)
 
 ## Chapter 5: if Statements
-1. [If condition]()
-2. [More if condition]()
-3. [Alien Colors 1]()
-4. [Alien Colors 2]()
-5. [Alien Colors 3]()
-6. [Stages of life]()
-7. [Favorite fruits]()
-8. [Hello admin]()
-9. [No users]()
-10. [Checking usernames]()
-11. [Ordinal numbers]()
+1. [If condition](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt5/5-1_Conditional_Tests.py)
+2. [More if condition](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt5/5-2_More_Conditional_Tests.py)
+3. [Alien Colors 1](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt5/5-3_Alien_Colors_1.py)
+4. [Alien Colors 2](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt5/5-4_Alien_Colors_2.py)
+5. [Alien Colors 3](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt5/5-5_Alien_Colors_3.py)
+6. [Stages of life](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt5/5-6_Stages_of_life.py)
+7. [Favorite fruits](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt5/5-7_Favorite_Fruit.py)
+8. [Hello admin](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt5/5-8_Hello_Admin.py)
+9. [No users](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt5/5-9_No_Users.py)
+10. [Checking usernames](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt5/5-10_Checking_Usernames.py)
+11. [Ordinal numbers](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt5/5-11_Ordinal_Numbers.py)
 
 ## Chapter 6: Dictionaries 
 1. [Person]()
