@@ -1,4 +1,4 @@
-![Book Cover](PythonCrashCourse/blob/master/pcc2e_cover-blurb_2B.webp?raw=true "Python Crash Course 2nd Edition")
+![Book Cover](PythonCrashCourse/blob/master/pcc2e_cover-blurb_2B.webp?raw=false "Python Crash Course 2nd Edition")
 
 
 # PythonCrashCourse
