@@ -1,3 +1,6 @@
+![Book Cover](PythonCrashCourse/blob/master/pcc2e_cover-blurb_2B.webp?raw=true "Python Crash Course 2nd Edition")
+
+
 # PythonCrashCourse
 This git is my complication of the solution for the [Python Crash Course 2nd Edition](https://nostarch.com/pythoncrashcourse2e). 
 # Solutions
