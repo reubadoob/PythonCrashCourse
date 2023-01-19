@@ -71,13 +71,22 @@ This git is my compilation of the solutions for the projects foudn within the ch
 6. [Polling](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt6/6-6_Polling.py)
 7. [People](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt6/6-7_People.py)
 8. [Pets](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt6/6-8_Pets.py)
-9. [Favorites Places]()
-10. [Favorite Number]()
-11. [Cities]()
-12. [Extensions]()
+9. [Favorites Places](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt6/6-9_Favorite_Places.py)
+10. [Favorite Number](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt6/6-10_Favorite_Number.py)
+11. [Cities](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt6/6-11_Cities.py)
+12. [Extensions](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt6/6-12_Extensions.py)
 
 ## Chapter 7: User Input and While Loops
-1.
+1. [Rental Car]()
+2. [Restraurant Seating]()
+3. [Multiples of Ten]()
+4. [Pizza Toppings]()
+5. [Movie Tickets]()
+6. [Three Exits]()
+7. [Infinity]()
+8. [Deli]()
+9. [No Pastrami]()
+10. [Dream Vacaction]()
 
 ## Chapter 8: Functions
 1. 
