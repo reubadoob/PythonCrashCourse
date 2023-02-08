@@ -77,19 +77,32 @@ This git is my compilation of the solutions for the projects foudn within the ch
 12. [Extensions](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt6/6-12_Extensions.py)
 
 ## Chapter 7: User Input and While Loops
-1. [Rental Car]()
-2. [Restraurant Seating]()
-3. [Multiples of Ten]()
-4. [Pizza Toppings]()
-5. [Movie Tickets]()
-6. [Three Exits]()
-7. [Infinity]()
-8. [Deli]()
-9. [No Pastrami]()
-10. [Dream Vacaction]()
+1. [Rental Car](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt7/7-1_Rental_Car.py)
+2. [Restraurant Seating](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt7/7-2_Restaurant_Seating.py)
+3. [Multiples of Ten](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt7/7-3_Mulitples_of_ten.py)
+4. [Pizza Toppings](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt7/7-4_Pizza_Toppings.py)
+5. [Movie Tickets](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt7/7-5_Movie_Tickets.py)
+6. [Three Exits](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt7/7-6_Three_Exits.py)
+7. [Infinity](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt7/7-7_Infinity.py)
+8. [Deli](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt7/7-8_Deli.py)
+9. [No Pastrami](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt7/7-9_No_Pastrami.py)
+10. [Dream Vacaction](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt7/7-10_Dream_Vacation.py)
 
 ## Chapter 8: Functions
-1. 
+1. [Message](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt8/8-1_Message.py)
+2. [Favorite Book](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt8/8-2_Favorite_Book.py)
+3. [T-Shirt](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt8/8-3_T-Shirt.py)
+4. [Large Shirts](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt8/8-4_Large_Shirts.py)
+5. [Cities](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt8/8-5_Cities.py)
+6. [City Names](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt8/8-6_City_Names.py)
+7. Album](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt8/8-7_Album.py)
+8. [User Albums](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt8/8-8_User_Albums.py)
+9. [Messages](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt8/8-9_Messages.py)
+10. [Sending Messages](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt8/8-10_Sending_Messages.py)
+11. [Archived Messages](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt8/8-11_Archived_Messages.py)
+12. [Sandwiches](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt8/8-12_Sandwiches.py)
+13. [User Profile](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt8/8-13_User_Profile.py)
+14. [Cars](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt8/8-14_Cars.py)
 
 ## Chapter 9: Classes
 1.
