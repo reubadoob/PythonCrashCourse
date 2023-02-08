@@ -95,7 +95,7 @@ This git is my compilation of the solutions for the projects foudn within the ch
 4. [Large Shirts](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt8/8-4_Large_Shirts.py)
 5. [Cities](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt8/8-5_Cities.py)
 6. [City Names](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt8/8-6_City_Names.py)
-7. Album](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt8/8-7_Album.py)
+7. [Album](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt8/8-7_Album.py)
 8. [User Albums](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt8/8-8_User_Albums.py)
 9. [Messages](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt8/8-9_Messages.py)
 10. [Sending Messages](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt8/8-10_Sending_Messages.py)
