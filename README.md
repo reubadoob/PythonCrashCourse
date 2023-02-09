@@ -105,7 +105,7 @@ This git is my compilation of the solutions for the projects foudn within the ch
 14. [Cars](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt8/8-14_Cars.py)
 
 ## Chapter 9: Classes
-1. [9-1: Restaurant](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt9/9-1_Restaurant.py)
+1. [Restaurant](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt9/9-1_Restaurant.py)
 2. [Three Restaurants](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt9/9-2_Three_Restaurants.py)
 3. [Users](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt9/9-3_Users.py)
 4. [Number Served](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt9/9-4_Number_Served.py)
@@ -123,7 +123,7 @@ This git is my compilation of the solutions for the projects foudn within the ch
 
 ## Chapter 10: Files and Exceptions
 1. []()
-2. [[]()
+2. []()
 3. []()
 4. []()
 5. []()
@@ -139,7 +139,7 @@ This git is my compilation of the solutions for the projects foudn within the ch
 
 ## Chapter 11: Testing Your Code
 1. []()
-2. [[]()
+2. []()
 3. []()
 4. []()
 5. []()
