@@ -105,10 +105,50 @@ This git is my compilation of the solutions for the projects foudn within the ch
 14. [Cars](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt8/8-14_Cars.py)
 
 ## Chapter 9: Classes
-1.
+1. [Restaurant](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt9/9-1_Restaurant.py)
+2. [Three Restaurants](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt9/9-2_Three_Restaurants.py)
+3. [Users](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt9/9-3_Users.py)
+4. [Number Served](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt9/9-4_Number_Served.py)
+5. [Login Attempts](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt9/9-5_Login_Attempts.py)
+6. [Ice Cream Stand](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt9/9-6_Ice_Cream_Stand.py)
+7. [Admin](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt9/9-7_Admin.py)
+8. [Privileges](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt9/9-8_Privilieges.py)
+9. [Battery Upgrade](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt9/9-9_Battery_Upgrade.py)
+10. [Imported Restaurant](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt9/9-10_Imported_Restaurant.py)
+11. [Imported Admin](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt9/9-11_Imported_Admin.py)
+12. [Multiple Modules](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt9/9-12_Multiple_Modules.py)
+13. [Dice](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt9/9-13_Dice.py)
+14. [Lottery](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt9/9-14_Lottery.py)
+15. [Lottery Analysis](https://github.com/reubadoob/PythonCrashCourse/blob/master/Chpt9/9-15_Lottery_Analysis.py)
 
 ## Chapter 10: Files and Exceptions
-1.
+1. []()
+2. []()
+3. []()
+4. []()
+5. []()
+6. []()
+7. []()
+8. []()
+9. []()
+10. []()
+11. []()
+12. []()
+13. []()
+14. []()
 
 ## Chapter 11: Testing Your Code
-1.
+1. []()
+2. []()
+3. []()
+4. []()
+5. []()
+6. []()
+7. []()
+8. []()
+9. []()
+10. []()
+11. []()
+12. []()
+13. []()
+14. []()
